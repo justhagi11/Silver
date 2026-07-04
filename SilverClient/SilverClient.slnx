@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Win32" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="SilverDesktop.vcxproj" Id="6111ce91-d630-4af8-bc59-c355e2f41454" />
+</Solution>
